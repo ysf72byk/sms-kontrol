@@ -1,1 +1,3 @@
 print("loading....")
+time.sleep(3)
+os.system('cls')
